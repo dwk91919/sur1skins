@@ -1,4 +1,4 @@
-# sur1skins
+# skins i use
 
 
 # [Rafis (rafis with blue cursor)](https://sur1.s-ul.eu/HagJ0Rrd)
